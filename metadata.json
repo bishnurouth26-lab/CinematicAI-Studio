@@ -1,0 +1,8 @@
+{
+  "name": "AI Creator Studio",
+  "description": "A modern futuristic SaaS web app for YouTubers and AI creators to generate scripts, scene prompts, thumbnails, and SEO using the Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
